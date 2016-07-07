@@ -1,9 +1,9 @@
 # Информация для разработчиков
 Раздел содержит информацию и файлы с описанием планов и хода разработки, новости, документацию по проекту.
 
-- [Список всех новостей разработки](https://github.com/freedomsex/docs/tree/master/doc/news) 
-- [Юридическая документация](https://github.com/freedomsex/docs/tree/master/doc/de-jure)
-- [Соглашения сообщества](https://github.com/freedomsex/docs/tree/master/doc/deal)
+- [Список всех новостей разработки](https://github.com/freedomsex/docs/tree/master/news) 
+- [Юридическая документация](https://github.com/freedomsex/docs/tree/master/de-jure)
+- [Соглашения сообщества](https://github.com/freedomsex/docs/tree/master/deal)
 
 ## План действий
 Больше всего работы предстоит по части JavaScript кода. 
