@@ -1,16 +1,16 @@
 # Информация для разработчиков
 Раздел содержит информацию и файлы с описанием планов и хода разработки, новости, документацию по проекту.
 
-- [Список всех новостей разработки](https://github.com/tebaly/freedomsex/tree/master/doc/news) 
-- [Юридическая документация](https://github.com/tebaly/freedomsex/tree/master/doc/de-jure)
-- [Соглашения сообщества](https://github.com/tebaly/freedomsex/tree/master/doc/deal)
+- [Список всех новостей разработки](https://github.com/freedomsex/docs/tree/master/news) 
+- [Юридическая документация](https://github.com/freedomsex/docs/tree/master/de-jure)
+- [Соглашения сообщества](https://github.com/freedomsex/docs/tree/master/deal)
 
 ## План действий
 Больше всего работы предстоит по части JavaScript кода. 
 Разработка удобной и озывчивой клиентской части приложения на всех уровнях, включая интерфейсы модератора и администратора. По серверной части работы также хватает. Пишутся и разрабатываются необходимые сервисы и контроллеры для клиентской части. 
 С администрирование серверов также не всё на высшем уровне.
-* [Карта веток проекта](https://github.com/tebaly/freedomsex/network) 
-* [Ветвление в проекте](https://github.com/tebaly/freedomsex/blob/dev/doc/news/20160616-Ветки.md)
+* [Репозитории проекта](https://github.com/freedomsex/docs/blob/master/news/20160707-Репозитории-проекта.md) 
+* [Ветвление в проекте](https://github.com/freedomsex/docs/blob/master/news/20160616-Ветки.md) 
 
 ## JavaScript
 Переходим к использованию BackboneJS библиотеке + MarionetteJS
