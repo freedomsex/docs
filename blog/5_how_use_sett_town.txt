@@ -7,7 +7,7 @@
    <p>&laquo;Мне интересно общение только в моём городе&raquo; означает, что
    ваше сообщение будет отправлено, но вряд ли будет прочитано.</p>
 
-   <img src="%%SITE%%/blog/img/only_town.jpeg" width="180" height="" alt="" class="left">
+   <img src="%%SITE%%/docs/blog/img/only_town.jpeg" width="180" height="" alt="" class="left">
 
    Вернее ваше сообщение будет прочитано собеседником, как только его заинтересуют
    знакомства в других городах.<br><br>
