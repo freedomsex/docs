@@ -11,7 +11,7 @@
      <a href="http://sexoo.ru/login.php" target="_blank">sexoo.ru</a> или
      <a href="http://qbsex.ru/login.php" target="_blank">qbsex.ru</a> <br /><br />
 
-  <img src="%%SITE%%/blog/img/shotry.jpg" width="180" height="" alt="" class="left">
+  <img src="%%SITE%%/docs/blog/img/shotry.jpg" width="180" height="" alt="" class="left">
 
   После перехода вам скорее всего потребуется войти на сайт используя свои логин и пароль которые
   на всех из них одинаковы. Все эти сайты представляют собой практически полную копию этого сайта.

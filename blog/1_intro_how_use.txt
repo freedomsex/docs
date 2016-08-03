@@ -8,7 +8,7 @@
   <p>Пришедшие на сайт девушки будут изначально заинтересованы в сексе, в поисках сексуального партнёра,
   общения без купюр.</p>
    
-  <img class="left" src="/blog/img/qbsex_example.jpg" width="180" height="" alt="" border="0">
+  <img class="left" src="/docs/blog/img/qbsex_example.jpg" width="180" height="" alt="" border="0">
 
   Анкета девушки появляется в результатах поиска как только она зайдёт на сайт - регистрация автоматическая.
   Это позволяет найти девушку для секса даже в соседнем доме и за пару часов.<br><br>
@@ -93,24 +93,24 @@
     bottom: 0; padding: 0px 20px 0 0; display: none;
     overflow-y: auto, noscroll;
     overflow-x: hidden;">
-     <img class="ex_left_im" src="http://qbsex.ru/blog/img/ex/good.jpg" alt="" ><br>  
+     <img class="ex_left_im" src="http://qbsex.ru/docs/blog/img/ex/good.jpg" alt="" ><br>  
      <div class="ex_marker">
           5 коротких названий сайта
      </div>
      
       
-     <img class="ex_left_im" src="http://qbsex.ru/blog/img/ex/buttons_st.jpg" alt="" ><br>
-     <img class="ex_left_im" src="http://qbsex.ru/blog/img/ex/for_girl.jpg" alt="" ><br>  
+     <img class="ex_left_im" src="http://qbsex.ru/docs/blog/img/ex/buttons_st.jpg" alt="" ><br>
+     <img class="ex_left_im" src="http://qbsex.ru/docs/blog/img/ex/for_girl.jpg" alt="" ><br>  
      <div class="ex_marker">
          x69.me - всего 5 символов
      </div>
-     <img class="ex_left_im" src="http://qbsex.ru/blog/img/ex/gray_door.jpg" alt="" ><br> 
-     <img class="ex_left_im" src="http://qbsex.ru/blog/img/ex/white_lift.jpg" alt="" ><br>  
+     <img class="ex_left_im" src="http://qbsex.ru/docs/blog/img/ex/gray_door.jpg" alt="" ><br> 
+     <img class="ex_left_im" src="http://qbsex.ru/docs/blog/img/ex/white_lift.jpg" alt="" ><br>  
      <div class="ex_marker">
         Элементарно просто, быстро, легко и эффективно!<br>
         100% анонимно<br>
      </div>
-     <img class="ex_left_im" src="http://freedomsex.net/blog/img/lift_net.jpg" alt=""><br> 
+     <img class="ex_left_im" src="http://freedomsex.net/docs/blog/img/lift_net.jpg" alt=""><br> 
      <div class="ex_marker"> <br>
         Хотите опубликовать фото своего способа здесь? Пришлите фотографию в письме
         на электронный адрес support@freedomsex.net<br><br>

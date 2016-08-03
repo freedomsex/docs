@@ -7,7 +7,7 @@
   <b>1. &laquo;<a href='%%SITE%%/blog/doc/qbsex_in_your_city.doc' target='_blank'>Секс в твоём городе</a>&raquo;</b>
 
   <a href='%%SITE%%/blog/doc/qbsex_in_your_city.doc' target='_blank'>
-   <img src="%%SITE%%/blog/img/qbsex_in_your_city.jpg" width="500" height="" alt="" class="board">
+   <img src="%%SITE%%/docs/blog/img/qbsex_in_your_city.jpg" width="500" height="" alt="" class="board">
   </a>
 
   Скачать &laquo;Секс в твоём городе&raquo; <a href='%%SITE%%/blog/doc/qbsex_in_your_city.doc' target='_blank'>qbsex_in_your_city.doc</a> (42kb)
@@ -17,7 +17,7 @@
   <b>2. &laquo;<a href='%%SITE%%/blog/doc/man_for_qbsex.doc' target='_blank'>Парни для секса</a>&raquo;</b>
 
   <a href='%%SITE%%/blog/doc/man_for_qbsex.doc' target='_blank'>
-   <img src="%%SITE%%/blog/img/man_for_qbsex.jpg" width="500" height="" alt="" class="board">
+   <img src="%%SITE%%/docs/blog/img/man_for_qbsex.jpg" width="500" height="" alt="" class="board">
   </a>
 
   Скачать &laquo;Парни для секса&raquo; <a href='%%SITE%%/blog/doc/man_for_qbsex.doc' target='_blank'>man_for_qbsex.doc</a> (44kb)

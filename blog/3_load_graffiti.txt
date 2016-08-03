@@ -16,7 +16,7 @@
   <b>1. &laquo;<a href='%%SITE%%/blog/doc/sex_in_your_city.doc' target='_blank'>Знакомства для секса</a>&raquo;</b>
 
   <a href='%%SITE%%/blog/doc/for_sex.jpg' target='_blank'>
-   <img src="%%SITE%%/blog/img/for_sex.jpg" width="500" height="" alt="" class="board">
+   <img src="%%SITE%%/docs/blog/img/for_sex.jpg" width="500" height="" alt="" class="board">
   </a>
 
   Скачать &laquo;Знакомства для секса&raquo; картинкой <a href='%%SITE%%/blog/doc/for_sex.jpg' target='_blank'>for_sex.jpg</a> (207kb)<br />
