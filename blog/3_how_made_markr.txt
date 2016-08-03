@@ -7,7 +7,7 @@
   Там где обычно вы пишите "Здесь был..." или там, где сейчас красуются замысловатые узоры
   личных подписей.
 
-  <img src="%%SITE%%/blog/tag-12.jpg" width="500" height="" alt="" class="board">
+  <img src="%%SITE%%/docs/blog/tag-12.jpg" width="500" height="" alt="" class="board">
 
    <a href="%%GRAFFITI_ADVERT_LINK%%">Как сделать трафарет для граффити &raquo;&raquo;&raquo;</a><br><br>
 

@@ -15,7 +15,7 @@
   не умеют регистрироваться на сайтах вообще.</p>
 
 
-  <img src="%%SITE%%/blog/love.jpg" width="180" height="" alt="" class="left">
+  <img src="%%SITE%%/docs/blog/love.jpg" width="180" height="" alt="" class="left">
 
   У нас же нет регистрации, достаточно просто зайти на сайт и начинать общаться.<br /><br />
 
