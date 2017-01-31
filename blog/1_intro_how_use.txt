@@ -75,7 +75,7 @@
         
   </div>  
   
-  <script>
+  <script>/*
     function ex_visible(){      // alert ( document.body.clientWidth ) 
       if ( document.body.clientWidth > 1250 ) {    
         document.getElementById('ex_block').style.display  = "block"       
@@ -86,7 +86,7 @@
     }
     window.onresize = function(){ ex_visible(); } 
     window.onload   = function(){ ex_visible(); }
- 
+ */
   </script>
 
   <div id="ex_block" style="position: fixed; top: 40px; left: 5px; border: 0px solid #444; max-height: 100%;
