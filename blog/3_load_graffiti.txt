@@ -7,7 +7,7 @@
   <div style="padding: 10px; border: 1px dashed red;">
     Короткие адреса
      <a href="%%SHORTY%%">oesex.ru</a>,
-     <a href="%%SHORTY%%">sexoo.ru</a> или
+     <a href="%%SHORTY%%">sexoo.me</a> или
      <a href="%%SHORTY%%">qbsex.ru</a>  удобнее
 
   </div>  <br />

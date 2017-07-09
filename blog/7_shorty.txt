@@ -7,9 +7,9 @@
     <p>Внимание. Для входа используйте ваши <b>логин</b> и <b>пароль</b>, иначе создадите ещё одну анкету.</p>
 
     Короткие адреса:
-     <a href="http://oesex.ru/login.php" target="_blank">oesex.ru</a> |
-     <a href="http://sexoo.ru/login.php" target="_blank">sexoo.ru</a> или
-     <a href="http://qbsex.ru/login.php" target="_blank">qbsex.ru</a> <br /><br />
+     <a href="http://oesex.ru" target="_blank">oesex.ru</a> |
+     <a href="http://sexoo.me" target="_blank">sexoo.me</a> или
+     <a href="http://qbsex.ru" target="_blank">qbsex.ru</a> <br /><br />
 
   <img src="%%SITE%%/docs/blog/img/shotry.jpg" width="180" height="" alt="" class="left">
 
