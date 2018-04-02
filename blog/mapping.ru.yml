@@ -8,7 +8,7 @@ virt:
 how-it-works:
   file: '111-Способ-знакомства'
   edit: false
-  galery: 
+  galery:
   - '/docs/blog/img/how-it-works/qbsex_example_full.jpg'
   - '/docs/blog/img/how-it-works/lavka_1.jpg'
   - '/docs/blog/img/how-it-works/stena_1.jpg'
@@ -17,5 +17,13 @@ how-it-works:
   - '/docs/blog/img/how-it-works/gray_door.jpg'
   - '/docs/blog/img/how-it-works/good.jpg'
   - '/docs/blog/img/how-it-works/for_girl.jpg'
-   
-  
+
+credit-of-trust:
+  file: '202-Кредит-доверия'
+  galery:
+  - '/docs/blog/img/credit-of-trust/i1-quick-alert.png'
+  - '/docs/blog/img/credit-of-trust/i2-anketa-info.png'
+  - '/docs/blog/img/credit-of-trust/i3-search-info.png'
+  - '/docs/blog/img/credit-of-trust/i4-vitr-marker.png'
+  - '/docs/blog/img/credit-of-trust/i5-search-settings.png'
+
