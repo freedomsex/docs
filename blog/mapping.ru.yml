@@ -6,7 +6,7 @@ heterosexual:
 virt:
   file: '203-Виртуальный-секс'
 how-it-works:
-  file: '111-Способ-знакомства'
+  file: 'Способ-знакомства/README.md'
   edit: false
   galery:
   - '/docs/blog/img/how-it-works/qbsex_example_full.jpg'
