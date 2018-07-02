@@ -7,11 +7,24 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="https://rawgit.com/freedomsex/static-review-list/master/dist/style.css">
 </head>
 <body>
   <div id="app"></div>
   <script>
+    var reviews = {
+      basePath: 'https://rawgit.com/freedomsex/docs/master/blog',
+      defaultDir: '/rev',
+      // defaultDir: '_reviews',
+      path: function() { 
+        return this.basePath + this.defaultDir
+      },
+      url: function(file) {
+        return '' + reviews.path() + '/' + file + '.json';
+      }
+    };
     window.$docsify = {
+      basePath: 'blog',
       loadSidebar: true,
       autoHeader: true,
       subMaxLevel: 2,
@@ -20,13 +33,15 @@
       // plugins: [
       //   function (hook, vm) {
       //     hook.doneEach(function() {
-      //       // var file = decodeURI(vm.route.file).replace(/\..*/, '');
-      //       // var root = vm.config.basePath || '/';
-      //       // var path = root + '_galery' + '/';
-      //       // var S
+      //       var file = decodeURI(vm.route.file).replace(/\..*/, '');
+      //       var root = vm.config.basePath || '/';
+      //       var path = root + '_galery' + '/';
       //       // console.log(vm);
+      //       window.$docsify.reviewsUrl = path + file
       // 
-      //       // console.log('file', path + file);
+      // const hash = decodeURI(vm.router.getCurrentPath())
+      // 
+      //       console.log('file', hash);
       //       // axios.get('/user?ID=12345').then(function (response) {
       //       //   console.log(response);
       //       // })
@@ -35,7 +50,8 @@
       // ],
     }
   </script>
-  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="//unpkg.com/vue/dist/vue.min.js"></script>
+  <script src="https://rawgit.com/freedomsex/static-review-list/master/dist/index.js?v2"></script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
