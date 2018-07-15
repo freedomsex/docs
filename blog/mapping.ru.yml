@@ -27,3 +27,7 @@ credit-of-trust:
   - '/docs/blog/img/credit-of-trust/i4-vitr-marker.png'
   - '/docs/blog/img/credit-of-trust/i5-search-settings.png'
 
+adverts: 
+  file: 'Реклама'
+  edit: false
+  
